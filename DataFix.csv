@@ -1,0 +1,1101 @@
+﻿jenis_kelamin,usia,lama_sakit,gula_darah,imt,sistole,diastole,nafas,detak_nadi,diagnosa
+P,83 Tahun,5 Hari,137,22.89,120 mm,80 Hg,17 /menit,77 /menit,KOMPLIKASI
+L,52 Tahun,2 Hari,171,22.89,130 mm,80 Hg,15 /menit,77 /menit,KOMPLIKASI
+P,65 Tahun,3 Hari,,22.03,150 mm,80 Hg,20 /menit,76 /menit,TIDAK KOMPLIKASI
+P,58 Tahun,3 Hari,64,22.83,140 mm,80 Hg,20 /menit,76 /menit,TIDAK KOMPLIKASI
+P,54 Tahun,3 Hari,,25.24,130 mm,70 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,55 Tahun,2 Hari,,22.03,130 mm,80 Hg,20 /menit,76 /menit,TIDAK KOMPLIKASI
+P,65 Tahun,0 Hari,267,26.67,130 mm,80 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,65 Tahun,4 Hari,310,22.89,120 mm,80 Hg,16 /menit,77 /menit,KOMPLIKASI
+P,49 Tahun,2 Hari,134,24.03,120 mm,70 Hg,20 /menit,76 /menit,KOMPLIKASI
+P,50 Tahun,4 Hari,142,22.89,120 mm,80 Hg,16 /menit,77 /menit,KOMPLIKASI
+L,73 Tahun,4 Hari,,22.89,120 mm,80 Hg,15 /menit,77 /menit,KOMPLIKASI
+L,73 Tahun,0 Hari,111,23.73,129 mm,80 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,50 Tahun,5 Hari,92,19.96,120 mm,80 Hg,16 /menit,77 /menit,KOMPLIKASI
+P,49 Tahun,4 Hari,192,22.89,120 mm,80 Hg,15 /menit,77 /menit,KOMPLIKASI
+L,56 Tahun,3 Hari,251,22.03,120 mm,70 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,50 Tahun,0 Hari,400,24.14,120 mm,60 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,61 Tahun,0 Hari,,23.63,120 mm,60 Hg,16 /menit,80 /menit,TIDAK KOMPLIKASI
+P,50 Tahun,4 Hari,357,24.97,120 mm,80 Hg,16 /menit,77 /menit,KOMPLIKASI
+L,37 Tahun,4 Hari,161,27.47,120 mm,80 Hg,16 /menit,77 /menit,KOMPLIKASI
+P,74 Tahun,3 Hari,179,24.44,120 mm,80 Hg,16 /menit,77 /menit,KOMPLIKASI
+P,68 Tahun,2 Hari,95,22.03,130 mm,70 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,53 Tahun,3 Hari,,22.03,120 mm,70 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,48 Tahun,3 Hari,370,27.47,120 mm,80 Hg,16 /menit,77 /menit,KOMPLIKASI
+L,52 Tahun,2 Hari,,22.03,130 mm,70 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,83 Tahun,2 Hari,109,22.03,120 mm,70 Hg,20 /menit,76 /menit,KOMPLIKASI
+P,49 Tahun,2 Hari,136,22.03,130 mm,70 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,65 Tahun,0 Hari,222,23.81,120 mm,70 Hg,16 /menit,80 /menit,TIDAK KOMPLIKASI
+L,50 Tahun,0 Hari,137,22.04,120 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,70 Tahun,2 Hari,,20.81,160 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,49 Tahun,0 Hari,,21.78,140 mm,90 Hg,14 /menit,60 /menit,KOMPLIKASI
+P,59 Tahun,3 Hari,337,23.23,120 mm,70 Hg,20 /menit,76 /menit,KOMPLIKASI
+P,51 Tahun,3 Hari,163,21.76,145 mm,80 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+L,62 Tahun,3 Hari,322,27.06,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,40 Tahun,3 Hari,,22.03,130 mm,70 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+L,55 Tahun,3 Hari,226,22.03,130 mm,90 Hg,20 /menit,76 /menit,KOMPLIKASI
+P,47 Tahun,3 Hari,422,22.03,110 mm,60 Hg,20 /menit,76 /menit,TIDAK KOMPLIKASI
+P,60 Tahun,7 Hari,,22.03,120 mm,70 Hg,20 /menit,76 /menit,TIDAK KOMPLIKASI
+P,63 Tahun,5 Hari,220,27.47,120 mm,80 Hg,15 /menit,77 /menit,KOMPLIKASI
+L,62 Tahun,7 Hari,,22.58,110 mm,60 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,54 Tahun,0 Hari,359,22.48,120 mm,60 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,62 Tahun,3 Hari,89,22.89,120 mm,80 Hg,15 /menit,77 /menit,KOMPLIKASI
+L,68 Tahun,2 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+L,62 Tahun,2 Hari,271,22.03,110 mm,60 Hg,18 /menit,76 /menit,KOMPLIKASI
+L,65 Tahun,3 Hari,,22.03,130 mm,70 Hg,18 /menit,76 /menit,KOMPLIKASI
+L,61 Tahun,3 Hari,,22.03,120 mm,70 Hg,20 /menit,76 /menit,TIDAK KOMPLIKASI
+P,43 Tahun,5 Hari,,32.05,120 mm,80 Hg,16 /menit,77 /menit,KOMPLIKASI
+P,65 Tahun,5 Hari,,22.03,180 mm,90 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+L,63 Tahun,2 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,59 Tahun,2 Hari,,22.03,130 mm,70 Hg,20 /menit,76 /menit,KOMPLIKASI
+L,75 Tahun,3 Hari,,22.03,120 mm,60 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,55 Tahun,3 Hari,171,22.03,130 mm,70 Hg,20 /menit,76 /menit,KOMPLIKASI
+P,63 Tahun,3 Hari,,22.03,150 mm,90 Hg,20 /menit,76 /menit,KOMPLIKASI
+P,56 Tahun,3 Hari,122,32.05,130 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+L,55 Tahun,3 Hari,202,22.03,130 mm,80 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+L,52 Tahun,2 Hari,,22.43,130 mm,80 Hg,20 /menit,76 /menit,KOMPLIKASI
+L,57 Tahun,0 Hari,,23.44,120 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,50 Tahun,0 Hari,251,22.89,120 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,62 Tahun,0 Hari,,23.44,120 mm,60 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,83 Tahun,3 Hari,,24.03,120 mm,80 Hg,20 /menit,76 /menit,KOMPLIKASI
+L,70 Tahun,2 Hari,192,22.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+L,79 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,58 Tahun,3 Hari,,24.56,130 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,27 Tahun,3 Hari,151,21.76,120 mm,70 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,50 Tahun,3 Hari,,22.03,130 mm,70 Hg,18 /menit,76 /menit,KOMPLIKASI
+L,56 Tahun,3 Hari,,22.03,130 mm,70 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,70 Tahun,2 Hari,475,22.03,110 mm,60 Hg,18 /menit,76 /menit,KOMPLIKASI
+L,68 Tahun,4 Hari,,24.97,120 mm,80 Hg,15 /menit,77 /menit,KOMPLIKASI
+P,51 Tahun,5 Hari,399,22.89,120 mm,80 Hg,15 /menit,77 /menit,KOMPLIKASI
+P,70 Tahun,4 Hari,479,22.89,120 mm,80 Hg,15 /menit,77 /menit,KOMPLIKASI
+P,51 Tahun,2 Hari,126,22.03,130 mm,70 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,49 Tahun,6 Hari,,22.89,120 mm,80 Hg,15 /menit,77 /menit,KOMPLIKASI
+P,49 Tahun,8 Hari,,21.48,120 mm,80 Hg,16 /menit,77 /menit,KOMPLIKASI
+L,62 Tahun,6 Hari,,22.89,120 mm,80 Hg,16 /menit,77 /menit,KOMPLIKASI
+P,65 Tahun,6 Hari,,22.89,120 mm,80 Hg,15 /menit,77 /menit,KOMPLIKASI
+P,58 Tahun,8 Hari,126,22.89,120 mm,80 Hg,15 /menit,77 /menit,KOMPLIKASI
+P,59 Tahun,5 Hari,,27.47,120 mm,80 Hg,15 /menit,77 /menit,KOMPLIKASI
+L,75 Tahun,4 Hari,,22.89,120 mm,80 Hg,16 /menit,77 /menit,KOMPLIKASI
+P,51 Tahun,4 Hari,,22.89,120 mm,80 Hg,16 /menit,77 /menit,KOMPLIKASI
+P,68 Tahun,8 Hari,,22.89,120 mm,80 Hg,15 /menit,77 /menit,KOMPLIKASI
+P,64 Tahun,6 Hari,352,22.89,120 mm,80 Hg,16 /menit,77 /menit,KOMPLIKASI
+P,61 Tahun,3 Hari,75,22.03,130 mm,70 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,55 Tahun,3 Hari,,22.03,120 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+L,60 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,38 Tahun,3 Hari,125,22.03,120 mm,70 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+L,56 Tahun,3 Hari,,22.03,130 mm,70 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,70 Tahun,5 Hari,106,27.47,120 mm,80 Hg,15 /menit,77 /menit,KOMPLIKASI
+P,65 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,62 Tahun,3 Hari,,22.03,120 mm,70 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+L,64 Tahun,2 Hari,122,22.03,120 mm,70 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,66 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,50 Tahun,0 Hari,,22.89,120 mm,60 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,55 Tahun,3 Hari,138,22.03,120 mm,70 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,51 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+L,59 Tahun,3 Hari,,20.7,150 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,48 Tahun,0 Hari,150,24.14,120 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,49 Tahun,6 Hari,,27.47,120 mm,80 Hg,15 /menit,77 /menit,KOMPLIKASI
+P,63 Tahun,0 Hari,287,24.14,120 mm,60 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,65 Tahun,3 Hari,318,22.03,180 mm,90 Hg,18 /menit,76 /menit,KOMPLIKASI
+L,79 Tahun,3 Hari,,20.81,130 mm,90 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,56 Tahun,5 Hari,,23.01,120 mm,80 Hg,15 /menit,70 /menit,KOMPLIKASI
+P,27 Tahun,5 Hari,,22.89,120 mm,80 Hg,15 /menit,77 /menit,KOMPLIKASI
+P,66 Tahun,6 Hari,,22.89,120 mm,80 Hg,15 /menit,77 /menit,KOMPLIKASI
+L,65 Tahun,2 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+L,52 Tahun,2 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,58 Tahun,3 Hari,,22.03,130 mm,70 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,43 Tahun,5 Hari,,22.89,120 mm,80 Hg,16 /menit,77 /menit,KOMPLIKASI
+P,59 Tahun,5 Hari,,22.89,120 mm,80 Hg,16 /menit,77 /menit,KOMPLIKASI
+P,62 Tahun,8 Hari,558,22.89,120 mm,80 Hg,15 /menit,77 /menit,KOMPLIKASI
+L,68 Tahun,2 Hari,,22.43,150 mm,90 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,45 Tahun,3 Hari,161,22.43,130 mm,80 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,71 Tahun,3 Hari,,22.03,130 mm,70 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,49 Tahun,3 Hari,,26.71,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,27 Tahun,3 Hari,,23.23,120 mm,80 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,58 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+L,59 Tahun,7 Hari,262,22.89,120 mm,80 Hg,15 /menit,77 /menit,KOMPLIKASI
+P,61 Tahun,7 Hari,,22.89,120 mm,80 Hg,16 /menit,77 /menit,KOMPLIKASI
+L,62 Tahun,5 Hari,,22.89,120 mm,80 Hg,16 /menit,77 /menit,KOMPLIKASI
+L,62 Tahun,5 Hari,,22.89,120 mm,80 Hg,15 /menit,77 /menit,KOMPLIKASI
+P,58 Tahun,3 Hari,172,24.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,64 Tahun,0 Hari,191,23.73,120 mm,60 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,62 Tahun,0 Hari,,25.39,120 mm,60 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,59 Tahun,0 Hari,,24.98,120 mm,69 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,50 Tahun,4 Hari,,23.31,120 mm,69 Hg,16 /menit,80 /menit,TIDAK KOMPLIKASI
+P,60 Tahun,6 Hari,,22.89,120 mm,80 Hg,15 /menit,77 /menit,KOMPLIKASI
+P,40 Tahun,7 Hari,,22.89,120 mm,80 Hg,15 /menit,77 /menit,TIDAK KOMPLIKASI
+P,51 Tahun,3 Hari,151,22.03,110 mm,60 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,70 Tahun,3 Hari,,22.43,190 mm,100 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,50 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+L,57 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,48 Tahun,3 Hari,191,22.03,130 mm,80 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,45 Tahun,3 Hari,,22.03,130 mm,70 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+L,44 Tahun,5 Hari,,22.89,120 mm,80 Hg,15 /menit,77 /menit,KOMPLIKASI
+L,59 Tahun,5 Hari,,22.89,120 mm,80 Hg,16 /menit,77 /menit,KOMPLIKASI
+P,47 Tahun,4 Hari,,22.89,120 mm,80 Hg,17 /menit,77 /menit,KOMPLIKASI
+P,60 Tahun,7 Hari,580,22.89,120 mm,80 Hg,15 /menit,77 /menit,KOMPLIKASI
+L,67 Tahun,8 Hari,,22.89,120 mm,80 Hg,16 /menit,77 /menit,KOMPLIKASI
+L,61 Tahun,8 Hari,,22.89,120 mm,80 Hg,15 /menit,77 /menit,TIDAK KOMPLIKASI
+L,75 Tahun,7 Hari,305,22.89,120 mm,80 Hg,16 /menit,77 /menit,KOMPLIKASI
+L,71 Tahun,8 Hari,,22.89,120 mm,80 Hg,15 /menit,77 /menit,KOMPLIKASI
+L,52 Tahun,8 Hari,,22.89,120 mm,80 Hg,16 /menit,77 /menit,KOMPLIKASI
+L,47 Tahun,3 Hari,,22.03,110 mm,60 Hg,18 /menit,76 /menit,KOMPLIKASI
+L,75 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,52 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,65 Tahun,2 Hari,,22.03,120 mm,70 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+L,69 Tahun,3 Hari,,22.03,140 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+L,37 Tahun,0 Hari,176,22.31,120 mm,60 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,53 Tahun,0 Hari,,22.48,120 mm,60 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,47 Tahun,0 Hari,145,22.31,120 mm,60 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,65 Tahun,0 Hari,77,25.39,140 mm,80 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,74 Tahun,0 Hari,131,23.73,120 mm,60 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,74 Tahun,0 Hari,,24.97,120 mm,60 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,75 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,49 Tahun,0 Hari,295,24.14,120 mm,60 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,75 Tahun,0 Hari,,21.4,110 mm,80 Hg,20 /menit,78 /menit,TIDAK KOMPLIKASI
+P,59 Tahun,2 Hari,416,20.81,130 mm,80 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+L,68 Tahun,3 Hari,,24.97,150 mm,90 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,55 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,49 Tahun,7 Hari,,22.89,120 mm,80 Hg,15 /menit,77 /menit,KOMPLIKASI
+P,58 Tahun,8 Hari,,22.89,120 mm,80 Hg,15 /menit,77 /menit,KOMPLIKASI
+P,56 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+L,41 Tahun,5 Hari,,22.89,120 mm,80 Hg,15 /menit,77 /menit,KOMPLIKASI
+L,50 Tahun,3 Hari,586,22.03,120 mm,70 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,27 Tahun,3 Hari,,22.03,130 mm,70 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,49 Tahun,0 Hari,161,24.97,130 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,40 Tahun,8 Hari,,22.89,120 mm,80 Hg,155 /menit,77 /menit,KOMPLIKASI
+P,37 Tahun,8 Hari,,22.89,120 mm,80 Hg,15 /menit,88 /menit,KOMPLIKASI
+P,65 Tahun,0 Hari,144,24.44,160 mm,90 Hg,16 /menit,80 /menit,TIDAK KOMPLIKASI
+L,56 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,50 Tahun,2 Hari,,20.81,130 mm,80 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+L,65 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,52 Tahun,3 Hari,,22.03,120 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,45 Tahun,0 Hari,,24.14,120 mm,60 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,40 Tahun,8 Hari,245,22.89,120 mm,80 Hg,15 /menit,77 /menit,KOMPLIKASI
+L,65 Tahun,3 Hari,,22.03,120 mm,70 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,47 Tahun,2 Hari,,22.03,120 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+L,62 Tahun,3 Hari,,22.03,120 mm,80 Hg,20 /menit,76 /menit,TIDAK KOMPLIKASI
+P,63 Tahun,3 Hari,151,22.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+L,61 Tahun,3 Hari,187,22.03,120 mm,70 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+L,61 Tahun,8 Hari,149,22.89,120 mm,80 Hg,15 /menit,77 /menit,KOMPLIKASI
+P,59 Tahun,30 Hari,,22.89,120 mm,80 Hg,15 /menit,77 /menit,KOMPLIKASI
+L,59 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,45 Tahun,3 Hari,113,22.03,130 mm,70 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,68 Tahun,3 Hari,,22.03,120 mm,70 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,40 Tahun,3 Hari,,22.03,120 mm,70 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+L,63 Tahun,3 Hari,158,22.03,130 mm,70 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,84 Tahun,3 Hari,136,22.03,150 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+L,55 Tahun,3 Hari,,22.03,130 mm,70 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,55 Tahun,3 Hari,,22.03,120 mm,70 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+L,70 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,57 Tahun,8 Hari,,22.89,120 mm,80 Hg,16 /menit,77 /menit,KOMPLIKASI
+P,58 Tahun,8 Hari,,22.89,120 mm,80 Hg,15 /menit,77 /menit,KOMPLIKASI
+P,52 Tahun,6 Hari,,22.89,120 mm,80 Hg,15 /menit,77 /menit,KOMPLIKASI
+P,51 Tahun,0 Hari,270,22.04,120 mm,60 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,72 Tahun,6 Hari,,22.03,130 mm,70 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,55 Tahun,3 Hari,361,22.03,130 mm,79 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,52 Tahun,30 Hari,,22.03,120 mm,80 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,51 Tahun,3 Hari,,24.03,130 mm,70 Hg,18 /menit,84 /menit,KOMPLIKASI
+P,75 Tahun,3 Hari,,22.03,130 mm,70 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+L,55 Tahun,3 Hari,,22.03,130 mm,70 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+L,57 Tahun,0 Hari,,23.05,120 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,59 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,49 Tahun,3 Hari,,22.03,130 mm,70 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,52 Tahun,3 Hari,,22.03,130 mm,70 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,48 Tahun,2 Hari,,27.06,120 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,48 Tahun,7 Hari,281,23.88,110 mm,70 Hg,20 /menit,89 /menit,KOMPLIKASI
+L,59 Tahun,3 Hari,,22.03,130 mm,70 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+L,75 Tahun,3 Hari,,22.03,130 mm,70 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,61 Tahun,0 Hari,,22.03,130 mm,70 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,70 Tahun,3 Hari,,22.03,130 mm,70 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,68 Tahun,3 Hari,,22.03,130 mm,70 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,61 Tahun,0 Hari,,24.56,120 mm,255 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,61 Tahun,20 Hari,,22.89,120 mm,80 Hg,16 /menit,77 /menit,KOMPLIKASI
+P,47 Tahun,3 Hari,,22.03,130 mm,70 Hg,18 /menit,76 /menit,KOMPLIKASI
+L,61 Tahun,5 Hari,,23.44,122 mm,80 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,62 Tahun,30 Hari,,19.96,120 mm,80 Hg,16 /menit,77 /menit,KOMPLIKASI
+P,55 Tahun,2 Hari,,23.03,130 mm,80 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+L,42 Tahun,2 Hari,,22.04,120 mm,80 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+P,66 Tahun,7 Hari,,25.39,130 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+L,59 Tahun,2 Hari,,22.49,140 mm,90 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,52 Tahun,2 Hari,,23.44,120 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,47 Tahun,0 Hari,,24.97,120 mm,60 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,55 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+L,51 Tahun,0 Hari,,23.88,130 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,55 Tahun,3 Hari,,22.03,130 mm,70 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,55 Tahun,3 Hari,,20.81,114 mm,84 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+L,62 Tahun,0 Hari,,24.77,120 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,63 Tahun,0 Hari,,23.5,130 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,56 Tahun,0 Hari,,22.86,120 mm,60 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,59 Tahun,0 Hari,,23.31,120 mm,60 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,66 Tahun,3 Hari,,22.03,130 mm,70 Hg,18 /menit,76 /menit,KOMPLIKASI
+L,62 Tahun,3 Hari,,26.04,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+L,61 Tahun,3 Hari,,22.03,130 mm,70 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,50 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,49 Tahun,3 Hari,,22.03,130 mm,70 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,49 Tahun,3 Hari,,22.03,160 mm,90 Hg,18 /menit,76 /menit,KOMPLIKASI
+L,73 Tahun,3 Hari,,22.03,168 mm,88 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,62 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,50 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,74 Tahun,3 Hari,,22.03,160 mm,100 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,57 Tahun,1 Hari,,27.34,121 mm,81 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,60 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,51 Tahun,3 Hari,,23.73,120 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+L,62 Tahun,2 Hari,,22.66,128 mm,85 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,66 Tahun,3 Hari,,20.81,180 mm,90 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,64 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,49 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,53 Tahun,2 Hari,,24.97,130 mm,90 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,55 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+L,62 Tahun,3 Hari,,22.03,126 mm,90 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,57 Tahun,3 Hari,,25.71,143 mm,85 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,70 Tahun,2 Hari,,23.44,179 mm,108 Hg,20 /menit,88 /menit,KOMPLIKASI
+L,68 Tahun,4 Hari,,22.03,130 mm,70 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,64 Tahun,7 Hari,,22.03,110 mm,60 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,44 Tahun,2 Hari,,22.48,120 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+L,44 Tahun,3 Hari,,20.76,120 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+L,73 Tahun,2 Hari,,22.49,144 mm,99 Hg,20 /menit,88 /menit,KOMPLIKASI
+L,41 Tahun,0 Hari,,22.04,130 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,42 Tahun,3 Hari,,22.49,130 mm,80 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+L,43 Tahun,3 Hari,,21.45,130 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,55 Tahun,3 Hari,,22.03,126 mm,70 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,52 Tahun,7 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,58 Tahun,4 Hari,,22.89,170 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,37 Tahun,3 Hari,,22.03,130 mm,70 Hg,18 /menit,76 /menit,KOMPLIKASI
+L,71 Tahun,0 Hari,,22.04,130 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,55 Tahun,3 Hari,,22.03,153 mm,88 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,84 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+L,62 Tahun,3 Hari,,22.86,130 mm,90 Hg,20 /menit,88 /menit,KOMPLIKASI
+L,55 Tahun,3 Hari,,22.03,130 mm,70 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,38 Tahun,2 Hari,,22.03,135 mm,95 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,52 Tahun,0 Hari,,23.31,110 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,49 Tahun,0 Hari,,24.97,110 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,56 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+L,50 Tahun,3 Hari,,22.66,140 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,64 Tahun,3 Hari,,22.03,130 mm,70 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,75 Tahun,2 Hari,,33.06,123 mm,70 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+P,60 Tahun,3 Hari,,23.23,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+L,66 Tahun,0 Hari,,22.31,110 mm,80 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,61 Tahun,3 Hari,,22.03,117 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+L,55 Tahun,2 Hari,,21.88,120 mm,80 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+P,49 Tahun,2 Hari,,29.3,155 mm,90 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+P,41 Tahun,2 Hari,,23.31,120 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,53 Tahun,4 Hari,,24.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,45 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+L,42 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+L,41 Tahun,2 Hari,,19.59,140 mm,90 Hg,20 /menit,88 /menit,KOMPLIKASI
+L,68 Tahun,0 Hari,,24.22,120 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,48 Tahun,3 Hari,,20.76,120 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+L,59 Tahun,0 Hari,,22.04,120 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,49 Tahun,14 Hari,,23.31,120 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,66 Tahun,0 Hari,,23.81,169 mm,87 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,53 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+L,61 Tahun,1 Hari,,21.22,120 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+L,66 Tahun,0 Hari,,23.44,120 mm,80 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,75 Tahun,0 Hari,,23.31,120 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,59 Tahun,0 Hari,,23.03,120 mm,60 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,49 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,69 Tahun,2 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,66 Tahun,2 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,48 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,60 Tahun,0 Hari,,23.31,120 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,69 Tahun,2 Hari,,22.03,130 mm,70 Hg,18 /menit,76 /menit,KOMPLIKASI
+L,54 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,46 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,50 Tahun,0 Hari,,23.31,130 mm,80 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,48 Tahun,0 Hari,,24.56,130 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,51 Tahun,3 Hari,,23.31,110 mm,60 Hg,16 /menit,80 /menit,TIDAK KOMPLIKASI
+P,52 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,38 Tahun,1 Hari,,22.03,130 mm,70 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,48 Tahun,3 Hari,,24.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+L,64 Tahun,2 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+L,80 Tahun,3 Hari,,22.03,130 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,70 Tahun,2 Hari,,27.34,165 mm,102 Hg,20 /menit,90 /menit,TIDAK KOMPLIKASI
+P,72 Tahun,2 Hari,,24.97,170 mm,90 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+L,49 Tahun,2 Hari,,22.49,120 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+L,67 Tahun,2 Hari,,22.49,110 mm,70 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+L,68 Tahun,2 Hari,,20.76,130 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+L,62 Tahun,2 Hari,,27.68,130 mm,90 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,57 Tahun,2 Hari,,20.81,120 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,52 Tahun,2 Hari,,24.97,130 mm,90 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+P,61 Tahun,2 Hari,,23.44,160 mm,90 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+P,61 Tahun,2 Hari,,29.14,140 mm,100 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,54 Tahun,3 Hari,,22.03,130 mm,70 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+L,71 Tahun,3 Hari,,22.03,130 mm,79 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,51 Tahun,2 Hari,,24.97,148 mm,90 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+L,42 Tahun,2 Hari,,20.76,120 mm,80 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,38 Tahun,3 Hari,,24.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+L,62 Tahun,3 Hari,,22.03,120 mm,80 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,54 Tahun,2 Hari,,22.72,130 mm,100 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,64 Tahun,2 Hari,,29.14,120 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,48 Tahun,2 Hari,,28.72,120 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,75 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,49 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,59 Tahun,2 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,75 Tahun,2 Hari,,23.23,130 mm,70 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,48 Tahun,3 Hari,,24.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,70 Tahun,2 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,62 Tahun,2 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+L,51 Tahun,0 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+L,64 Tahun,2 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,63 Tahun,2 Hari,,24.03,140 mm,90 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+L,63 Tahun,2 Hari,,19.59,120 mm,80 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+P,63 Tahun,2 Hari,,20.76,120 mm,80 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+L,48 Tahun,2 Hari,,21.26,120 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+L,67 Tahun,0 Hari,,23.44,120 mm,70 Hg,16 /menit,80 /menit,TIDAK KOMPLIKASI
+P,38 Tahun,3 Hari,,23.23,130 mm,70 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,66 Tahun,3 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,61 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,52 Tahun,2 Hari,,26.44,150 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,55 Tahun,2 Hari,,22.03,120 mm,70 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,58 Tahun,2 Hari,,22.6,110 mm,60 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,50 Tahun,7 Hari,,22.03,160 mm,100 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+L,51 Tahun,2 Hari,,22.86,115 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,53 Tahun,2 Hari,,22.03,110 mm,60 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,56 Tahun,2 Hari,,21.8,120 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,59 Tahun,2 Hari,,20.81,120 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,63 Tahun,2 Hari,,20.81,156 mm,89 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+P,63 Tahun,0 Hari,,23.73,140 mm,80 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,53 Tahun,2 Hari,124,22.03,110 mm,60 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,62 Tahun,2 Hari,,22.03,130 mm,70 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,60 Tahun,0 Hari,,23.03,110 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,50 Tahun,0 Hari,,24.97,110 mm,60 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,50 Tahun,0 Hari,,23.31,130 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,61 Tahun,0 Hari,,23.88,120 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,69 Tahun,3 Hari,,22.03,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,60 Tahun,3 Hari,,22.43,124 mm,68 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,49 Tahun,2 Hari,,23.31,127 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,60 Tahun,3 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,65 Tahun,0 Hari,,23.73,120 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,62 Tahun,2 Hari,,22.03,130 mm,80 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+L,68 Tahun,0 Hari,,23.88,120 mm,60 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,61 Tahun,0 Hari,260,22.04,130 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,50 Tahun,0 Hari,77,24.14,120 mm,60 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,60 Tahun,2 Hari,,22.03,110 mm,70 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,68 Tahun,2 Hari,,22.03,120 mm,70 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,75 Tahun,2 Hari,,22.03,160 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,60 Tahun,2 Hari,437,22.03,150 mm,90 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,48 Tahun,3 Hari,,19.56,120 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,53 Tahun,3 Hari,,24.97,120 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+L,44 Tahun,2 Hari,,22.03,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,72 Tahun,2 Hari,,24.03,150 mm,90 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,49 Tahun,2 Hari,127,23.23,140 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,53 Tahun,2 Hari,,22.03,120 mm,70 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,55 Tahun,2 Hari,,22.43,120 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,69 Tahun,2 Hari,,22.03,130 mm,70 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,63 Tahun,2 Hari,,22.03,120 mm,70 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,61 Tahun,1 Hari,77,22.03,149 mm,100 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,59 Tahun,2 Hari,,30.44,170 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,55 Tahun,2 Hari,,22.03,120 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,58 Tahun,2 Hari,,22.03,100 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,52 Tahun,2 Hari,,22.03,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,52 Tahun,7 Hari,,22.04,180 mm,90 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,60 Tahun,2 Hari,,24.34,120 mm,80 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,60 Tahun,3 Hari,,21.5,146 mm,86 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,84 Tahun,3 Hari,,24.97,120 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,55 Tahun,0 Hari,,23.56,140 mm,80 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,44 Tahun,3 Hari,241,22.04,120 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,53 Tahun,3 Hari,,23.44,120 mm,80 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+L,59 Tahun,3 Hari,,18.37,140 mm,90 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,41 Tahun,2 Hari,,22.03,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,61 Tahun,2 Hari,,22.03,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,64 Tahun,2 Hari,,22.43,130 mm,70 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,53 Tahun,21 Hari,141,22.03,160 mm,90 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,71 Tahun,2 Hari,,22.43,120 mm,70 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,66 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,46 Tahun,2 Hari,,22.43,120 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,50 Tahun,2 Hari,,22.03,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,63 Tahun,3 Hari,,22.49,140 mm,80 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,50 Tahun,2 Hari,360,22.03,110 mm,70 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,59 Tahun,1 Hari,300,23.42,140 mm,90 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,58 Tahun,0 Hari,508,24.65,110 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,53 Tahun,3 Hari,,25.39,120 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+L,67 Tahun,3 Hari,,17.3,115 mm,76 Hg,20 /menit,80 /menit,KOMPLIKASI
+L,64 Tahun,0 Hari,173,22.04,110 mm,60 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,50 Tahun,0 Hari,193,22.04,140 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,52 Tahun,2 Hari,,22.86,130 mm,70 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,76 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,58 Tahun,2 Hari,,23.23,160 mm,100 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,53 Tahun,2 Hari,91,22.43,160 mm,100 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,69 Tahun,3 Hari,,22.83,147 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,62 Tahun,3 Hari,337,21.26,130 mm,90 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,57 Tahun,3 Hari,,23.31,140 mm,70 Hg,20 /menit,88 /menit,KOMPLIKASI
+L,80 Tahun,3 Hari,113,17.58,120 mm,40 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,58 Tahun,3 Hari,,24.65,120 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,49 Tahun,3 Hari,,24.34,120 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+L,67 Tahun,3 Hari,166,24.97,130 mm,70 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+P,53 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,88 /menit,TIDAK KOMPLIKASI
+L,66 Tahun,2 Hari,,23.23,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,57 Tahun,2 Hari,143,22.43,130 mm,70 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,64 Tahun,2 Hari,,22.43,140 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,71 Tahun,2 Hari,205,22.43,170 mm,90 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,55 Tahun,4 Hari,,20.76,130 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,51 Tahun,2 Hari,246,22.43,146 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,49 Tahun,3 Hari,,22.89,130 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+L,69 Tahun,3 Hari,,20.76,140 mm,90 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,46 Tahun,2 Hari,80,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,71 Tahun,2 Hari,249,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,62 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,56 Tahun,3 Hari,253,24.22,130 mm,80 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,64 Tahun,3 Hari,,22.72,120 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,51 Tahun,3 Hari,,27.06,132 mm,72 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+L,62 Tahun,0 Hari,,25.39,120 mm,80 Hg,16 /menit,80 /menit,TIDAK KOMPLIKASI
+L,60 Tahun,0 Hari,205,23.31,130 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,73 Tahun,2 Hari,345,22.43,150 mm,70 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,52 Tahun,2 Hari,,22.43,120 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,66 Tahun,7 Hari,,22.43,120 mm,70 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,58 Tahun,2 Hari,,22.43,126 mm,78 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,58 Tahun,3 Hari,,25.63,130 mm,80 Hg,16 /menit,80 /menit,TIDAK KOMPLIKASI
+P,55 Tahun,3 Hari,225,26.67,120 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,55 Tahun,3 Hari,,24.44,110 mm,80 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+L,67 Tahun,3 Hari,208,20.76,120 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,49 Tahun,3 Hari,,20.81,136 mm,86 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+L,69 Tahun,3 Hari,,20.76,138 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+L,60 Tahun,2 Hari,110,22.43,120 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,52 Tahun,2 Hari,249,22.43,120 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,69 Tahun,2 Hari,254,22.43,120 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,42 Tahun,2 Hari,,22.43,120 mm,70 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,63 Tahun,3 Hari,,22.49,139 mm,78 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+P,51 Tahun,3 Hari,,24.97,138 mm,80 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+P,60 Tahun,2 Hari,300,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,74 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,80 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,48 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,50 Tahun,2 Hari,,22.43,120 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,50 Tahun,4 Hari,,22.06,130 mm,80 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,34 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,75 Tahun,2 Hari,,22.43,130 mm,70 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,57 Tahun,3 Hari,,24.97,120 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,49 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,51 Tahun,2 Hari,,22.43,130 mm,70 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,52 Tahun,3 Hari,,24.03,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,60 Tahun,2 Hari,,22.43,120 mm,70 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,71 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,54 Tahun,2 Hari,,22.43,160 mm,90 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,62 Tahun,2 Hari,,22.43,130 mm,70 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,70 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,66 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,56 Tahun,3 Hari,338,21.26,140 mm,90 Hg,20 /menit,88 /menit,KOMPLIKASI
+L,68 Tahun,3 Hari,,22.49,130 mm,90 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,48 Tahun,3 Hari,,37.46,120 mm,80 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+P,63 Tahun,4 Hari,126,24.97,110 mm,70 Hg,16 /menit,80 /menit,TIDAK KOMPLIKASI
+P,48 Tahun,6 Hari,261,28.72,120 mm,80 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,73 Tahun,2 Hari,137,26.71,120 mm,80 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+P,44 Tahun,30 Hari,,24.24,150 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,71 Tahun,3 Hari,,31.11,120 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+L,42 Tahun,4 Hari,,21.48,120 mm,80 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+P,61 Tahun,0 Hari,190,27.06,130 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,55 Tahun,3 Hari,,23.5,121 mm,79 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+L,76 Tahun,3 Hari,,21.22,164 mm,99 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,61 Tahun,3 Hari,235,23.31,125 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,53 Tahun,3 Hari,,24.97,120 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+L,59 Tahun,0 Hari,329,24.8,120 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,66 Tahun,3 Hari,,26.04,120 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,60 Tahun,3 Hari,258,24.97,140 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+L,66 Tahun,3 Hari,,19.83,120 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,63 Tahun,0 Hari,,24.97,130 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,41 Tahun,0 Hari,,22.04,120 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,63 Tahun,1 Hari,288,24.97,110 mm,70 Hg,20 /menit,80 /menit,KOMPLIKASI
+L,66 Tahun,1 Hari,,22.04,87 mm,59 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+L,56 Tahun,5 Hari,,22.49,120 mm,80 Hg,12 /menit,66 /menit,TIDAK KOMPLIKASI
+L,66 Tahun,5 Hari,,22.76,129 mm,70 Hg,16 /menit,80 /menit,TIDAK KOMPLIKASI
+P,65 Tahun,3 Hari,,23.95,120 mm,80 Hg,16 /menit,77 /menit,KOMPLIKASI
+P,50 Tahun,0 Hari,,27.89,120 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,61 Tahun,0 Hari,253,23.03,120 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,44 Tahun,0 Hari,,23.03,120 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,62 Tahun,0 Hari,448,22.31,116 mm,89 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,57 Tahun,0 Hari,,23.73,150 mm,90 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,60 Tahun,0 Hari,,22.04,120 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,50 Tahun,0 Hari,,23.31,120 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,55 Tahun,0 Hari,,22.04,120 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,58 Tahun,0 Hari,,24.97,120 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,38 Tahun,0 Hari,,22.04,120 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,66 Tahun,0 Hari,,22.58,120 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,63 Tahun,4 Hari,,22.04,126 mm,83 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,50 Tahun,0 Hari,275,23.42,120 mm,60 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,44 Tahun,0 Hari,,22.77,120 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,49 Tahun,0 Hari,275,23.31,120 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,72 Tahun,3 Hari,,21.26,120 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,58 Tahun,3 Hari,,20.81,120 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+L,53 Tahun,3 Hari,,24.22,130 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,55 Tahun,3 Hari,,20.81,120 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,56 Tahun,3 Hari,,27.34,140 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,56 Tahun,5 Hari,,27.34,140 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+L,53 Tahun,0 Hari,,20.08,167 mm,80 Hg,12 /menit,64 /menit,TIDAK KOMPLIKASI
+P,31 Tahun,4 Hari,,24.97,130 mm,90 Hg,20 /menit,80 /menit,KOMPLIKASI
+L,41 Tahun,2 Hari,321,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,52 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,70 Tahun,3 Hari,,20.76,130 mm,90 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,73 Tahun,3 Hari,103,25.39,120 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+L,69 Tahun,3 Hari,130,19.59,140 mm,90 Hg,20 /menit,80 /menit,KOMPLIKASI
+L,51 Tahun,3 Hari,284,23.53,140 mm,90 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,48 Tahun,3 Hari,,22.72,120 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,64 Tahun,3 Hari,,22.31,120 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,50 Tahun,2 Hari,,22.43,130 mm,70 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,42 Tahun,2 Hari,118,23.23,120 mm,70 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,66 Tahun,2 Hari,486,22.43,130 mm,70 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,59 Tahun,3 Hari,142,22.89,140 mm,90 Hg,20 /menit,88 /menit,KOMPLIKASI
+L,63 Tahun,2 Hari,77,22.66,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,62 Tahun,1 Hari,,22.83,120 mm,70 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,66 Tahun,2 Hari,,22.04,110 mm,60 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,53 Tahun,2 Hari,,22.15,127 mm,70 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,57 Tahun,2 Hari,,24.03,150 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,57 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,50 Tahun,2 Hari,,22.43,130 mm,70 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,77 Tahun,2 Hari,223,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,64 Tahun,2 Hari,,22.43,150 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,62 Tahun,2 Hari,77,22.43,129 mm,86 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,42 Tahun,2 Hari,168,22.03,128 mm,70 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,62 Tahun,2 Hari,,22.43,130 mm,70 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,53 Tahun,1 Hari,557,22.43,130 mm,70 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,50 Tahun,2 Hari,251,22.43,140 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,46 Tahun,2 Hari,,22.43,144 mm,88 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,42 Tahun,2 Hari,93,22.72,130 mm,60 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,62 Tahun,2 Hari,,22.43,140 mm,70 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,61 Tahun,3 Hari,130,20.07,120 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,58 Tahun,3 Hari,77,29.14,120 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+L,60 Tahun,3 Hari,,19.38,120 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,56 Tahun,3 Hari,,28.44,144 mm,92 Hg,14 /menit,64 /menit,TIDAK KOMPLIKASI
+P,53 Tahun,2 Hari,110,27.06,120 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,61 Tahun,5 Hari,322,27.06,166 mm,82 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,56 Tahun,2 Hari,,22.43,110 mm,60 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,71 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,53 Tahun,2 Hari,158,23.03,174 mm,145 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,56 Tahun,2 Hari,,22.43,130 mm,70 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,49 Tahun,2 Hari,,17.3,120 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,66 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,54 Tahun,2 Hari,,22.43,199 mm,94 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,49 Tahun,2 Hari,,22.43,150 mm,90 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,63 Tahun,2 Hari,290,22.83,140 mm,83 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,67 Tahun,2 Hari,115,22.43,130 mm,70 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,66 Tahun,2 Hari,498,22.43,130 mm,70 Hg,18 /menit,58 /menit,KOMPLIKASI
+P,75 Tahun,2 Hari,,22.43,137 mm,76 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,52 Tahun,2 Hari,,22.43,144 mm,99 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,44 Tahun,2 Hari,,19.78,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,80 Tahun,3 Hari,275,22.89,130 mm,90 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,54 Tahun,3 Hari,333,24.97,130 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,47 Tahun,2 Hari,,22.43,130 mm,70 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,37 Tahun,2 Hari,514,22.43,137 mm,86 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,53 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,49 Tahun,2 Hari,,22.43,130 mm,70 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,54 Tahun,2 Hari,100,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,75 Tahun,3 Hari,,27.06,120 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+L,63 Tahun,1 Hari,,20.31,160 mm,70 Hg,12 /menit,64 /menit,TIDAK KOMPLIKASI
+P,58 Tahun,2 Hari,,24.97,120 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,48 Tahun,2 Hari,,25.64,137 mm,92 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,41 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,50 Tahun,3 Hari,202,29.38,150 mm,90 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,24 Tahun,3 Hari,,20,120 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,55 Tahun,3 Hari,,18.73,120 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+L,63 Tahun,3 Hari,,22.76,120 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,62 Tahun,3 Hari,168,27.06,140 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,31 Tahun,3 Hari,,23.44,140 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+L,71 Tahun,0 Hari,,27.34,130 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+L,66 Tahun,5 Hari,,19.03,120 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,69 Tahun,2 Hari,,22.43,143 mm,90 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,60 Tahun,3 Hari,,27.06,120 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,65 Tahun,3 Hari,,27.06,110 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+L,53 Tahun,3 Hari,,20.76,120 mm,80 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,63 Tahun,2 Hari,,22.43,138 mm,83 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,60 Tahun,2 Hari,,27.06,120 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,49 Tahun,2 Hari,157,22.43,151 mm,88 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,56 Tahun,1 Hari,,22.43,108 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,52 Tahun,2 Hari,468,26.71,120 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+L,63 Tahun,3 Hari,,23.88,120 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,56 Tahun,2 Hari,,22.43,130 mm,100 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,42 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,42 Tahun,2 Hari,,22.43,110 mm,60 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,53 Tahun,2 Hari,499,22.43,130 mm,70 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,68 Tahun,2 Hari,,22.43,150 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,60 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,52 Tahun,2 Hari,251,22.43,110 mm,60 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,54 Tahun,2 Hari,,22.43,150 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,51 Tahun,2 Hari,,22.43,120 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,47 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,66 Tahun,2 Hari,255,23.31,140 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,51 Tahun,2 Hari,154,22.58,130 mm,90 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,42 Tahun,2 Hari,237,22.31,130 mm,70 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,50 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,47 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,56 Tahun,2 Hari,,20.81,140 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,71 Tahun,2 Hari,,22.03,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,42 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,46 Tahun,2 Hari,,22.43,120 mm,70 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,59 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,62 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,75 Tahun,2 Hari,,22.43,140 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,80 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,50 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,41 Tahun,2 Hari,,22.43,140 mm,90 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,57 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,62 Tahun,2 Hari,204,23.23,150 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,53 Tahun,2 Hari,264,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,46 Tahun,1 Hari,117,23.88,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,53 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,61 Tahun,2 Hari,,23.42,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,53 Tahun,2 Hari,,22.43,168 mm,90 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,49 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,76 Tahun,2 Hari,114,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,66 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,44 Tahun,2 Hari,,22.43,140 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,80 Tahun,2 Hari,,22.43,143 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,52 Tahun,2 Hari,,22.94,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,56 Tahun,2 Hari,,22.43,150 mm,90 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,58 Tahun,2 Hari,206,22.43,130 mm,70 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,64 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,51 Tahun,2 Hari,316,24.97,120 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+L,63 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,49 Tahun,2 Hari,305,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,55 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,54 Tahun,1 Hari,,22.83,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,56 Tahun,3 Hari,212,23.31,130 mm,90 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,42 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,74 Tahun,2 Hari,,20.57,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,43 Tahun,2 Hari,153,23.23,120 mm,75 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,63 Tahun,2 Hari,,19.03,130 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,45 Tahun,2 Hari,,22.43,157 mm,83 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,56 Tahun,2 Hari,110,22.43,130 mm,90 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,58 Tahun,1 Hari,,22.43,120 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,71 Tahun,2 Hari,119,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,69 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,49 Tahun,2 Hari,,22.15,112 mm,81 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,64 Tahun,3 Hari,395,21.26,140 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+L,53 Tahun,2 Hari,,22.43,120 mm,70 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,64 Tahun,2 Hari,,22.43,117 mm,60 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,55 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,69 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,65 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,59 Tahun,2 Hari,116,22.43,105 mm,79 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,72 Tahun,2 Hari,346,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,63 Tahun,2 Hari,,22.43,170 mm,100 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,45 Tahun,2 Hari,370,22.72,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,52 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,50 Tahun,3 Hari,,27.06,140 mm,90 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,51 Tahun,2 Hari,179,22.43,170 mm,100 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,58 Tahun,2 Hari,,24.03,187 mm,107 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,50 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,59 Tahun,2 Hari,81,22.43,120 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,50 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,52 Tahun,1 Hari,,22.43,140 mm,90 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,52 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,56 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,47 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,42 Tahun,7 Hari,,22.43,120 mm,70 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,62 Tahun,1 Hari,,26.84,140 mm,90 Hg,20 /menit,90 /menit,KOMPLIKASI
+L,43 Tahun,2 Hari,,22.43,120 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,50 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,61 Tahun,3 Hari,208,19.03,110 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,71 Tahun,2 Hari,,24.97,130 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,45 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,58 Tahun,1 Hari,,23.73,136 mm,90 Hg,16 /menit,80 /menit,TIDAK KOMPLIKASI
+P,52 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,64 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,64 Tahun,2 Hari,,22.89,130 mm,80 Hg,15 /menit,66 /menit,KOMPLIKASI
+P,62 Tahun,2 Hari,,22.43,127 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,61 Tahun,2 Hari,182,22.43,110 mm,60 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,60 Tahun,2 Hari,,22.43,127 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,75 Tahun,0 Hari,,23.31,120 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,63 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,62 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,52 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,55 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,56 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,73 Tahun,2 Hari,182,20.55,110 mm,60 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,58 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,57 Tahun,2 Hari,247,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,62 Tahun,2 Hari,211,23.05,130 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+L,73 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,47 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,61 Tahun,2 Hari,,22.43,129 mm,83 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,56 Tahun,2 Hari,,20.44,130 mm,90 Hg,12 /menit,60 /menit,TIDAK KOMPLIKASI
+P,50 Tahun,2 Hari,,22.43,139 mm,90 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,85 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,52 Tahun,2 Hari,370,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,69 Tahun,2 Hari,,22.43,130 mm,90 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,67 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,52 Tahun,3 Hari,,22.15,128 mm,84 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,66 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,46 Tahun,2 Hari,,22.43,148 mm,97 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,51 Tahun,2 Hari,,22.43,108 mm,86 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,63 Tahun,2 Hari,,24.92,140 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,59 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,76 Tahun,2 Hari,,22.43,120 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,58 Tahun,2 Hari,215,22.89,120 mm,80 Hg,16 /menit,77 /menit,KOMPLIKASI
+L,63 Tahun,2 Hari,,22.43,120 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,58 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,43 Tahun,2 Hari,160,22.15,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,54 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,60 Tahun,0 Hari,,29.78,120 mm,70 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,50 Tahun,2 Hari,,22.43,140 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,63 Tahun,2 Hari,226,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,49 Tahun,2 Hari,186,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,60 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,64 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,70 Tahun,2 Hari,,22.43,140 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,53 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,53 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,55 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,45 Tahun,2 Hari,248,22.43,140 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,65 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,76 /menit,KOMPLIKASI
+P,56 Tahun,1 Hari,97,22.43,140 mm,80 Hg,18 /menit,88 /menit,KOMPLIKASI
+L,59 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,52 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,64 Tahun,2 Hari,,22.43,147 mm,89 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,85 Tahun,2 Hari,,22.43,160 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,53 Tahun,1 Hari,,22.43,123 mm,96 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,47 Tahun,1 Hari,161,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,50 Tahun,2 Hari,305,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,61 Tahun,2 Hari,,22.6,114 mm,69 Hg,18 /menit,82 /menit,TIDAK KOMPLIKASI
+P,56 Tahun,1 Hari,,22.15,160 mm,90 Hg,18 /menit,88 /menit,TIDAK KOMPLIKASI
+L,60 Tahun,2 Hari,300,22.43,140 mm,100 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,60 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,67 Tahun,0 Hari,,24.14,120 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,43 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,50 Tahun,2 Hari,246,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,75 Tahun,4 Hari,,24.97,140 mm,80 Hg,20 /menit,84 /menit,KOMPLIKASI
+L,38 Tahun,0 Hari,,24.02,120 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,45 Tahun,1 Hari,,22.15,140 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,67 Tahun,2 Hari,424,27.06,120 mm,80 Hg,20 /menit,84 /menit,KOMPLIKASI
+P,50 Tahun,1 Hari,154,22.43,125 mm,85 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,71 Tahun,2 Hari,,24.97,140 mm,90 Hg,20 /menit,84 /menit,KOMPLIKASI
+L,54 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,46 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,71 Tahun,2 Hari,,22.43,150 mm,90 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,60 Tahun,0 Hari,77,20.57,120 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+L,67 Tahun,0 Hari,,19.78,120 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,61 Tahun,2 Hari,,18.73,140 mm,90 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,56 Tahun,2 Hari,,22.43,120 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,72 Tahun,2 Hari,,19.49,120 mm,70 Hg,20 /menit,80 /menit,KOMPLIKASI
+L,68 Tahun,2 Hari,,18,120 mm,80 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+P,56 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,47 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,60 Tahun,3 Hari,,24.97,140 mm,90 Hg,20 /menit,84 /menit,TIDAK KOMPLIKASI
+P,53 Tahun,2 Hari,,22.43,136 mm,87 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,42 Tahun,2 Hari,,22.43,131 mm,90 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,44 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,53 Tahun,1 Hari,237,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,52 Tahun,1 Hari,,22.43,140 mm,90 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,51 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,65 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,38 Tahun,3 Hari,,22.43,160 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,76 Tahun,2 Hari,,22.43,140 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,53 Tahun,2 Hari,,22.43,120 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,67 Tahun,2 Hari,140,19.49,130 mm,80 Hg,20 /menit,84 /menit,KOMPLIKASI
+L,64 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,20 Tahun,1 Hari,,22.43,110 mm,60 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,60 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,59 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,41 Tahun,2 Hari,,24.03,140 mm,80 Hg,18 /menit,88 /menit,TIDAK KOMPLIKASI
+P,45 Tahun,1 Hari,,22.43,111 mm,76 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,48 Tahun,1 Hari,173,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,50 Tahun,1 Hari,594,22.43,139 mm,82 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,56 Tahun,1 Hari,,22.43,170 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,53 Tahun,1 Hari,,22.43,115 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,64 Tahun,0 Hari,,25.97,120 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,50 Tahun,5 Hari,,23.5,120 mm,70 Hg,16 /menit,80 /menit,TIDAK KOMPLIKASI
+P,42 Tahun,2 Hari,,23.23,140 mm,90 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,54 Tahun,2 Hari,,23.44,130 mm,90 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,62 Tahun,2 Hari,,26.56,110 mm,70 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,64 Tahun,1 Hari,,26.67,120 mm,80 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,64 Tahun,2 Hari,,26.95,130 mm,90 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+L,56 Tahun,1 Hari,,22.66,120 mm,80 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,55 Tahun,2 Hari,,24.97,110 mm,70 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,56 Tahun,2 Hari,,26.67,130 mm,90 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,56 Tahun,2 Hari,,24.61,120 mm,70 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+L,51 Tahun,2 Hari,333,26.99,140 mm,90 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,73 Tahun,2 Hari,,27.06,130 mm,90 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+L,68 Tahun,2 Hari,,26.95,130 mm,90 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,62 Tahun,2 Hari,,24.03,140 mm,90 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,65 Tahun,2 Hari,,25.11,130 mm,90 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+L,64 Tahun,3 Hari,,24.51,130 mm,80 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,45 Tahun,2 Hari,,26.67,120 mm,80 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,59 Tahun,2 Hari,,27.34,120 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,65 Tahun,1 Hari,,26.67,130 mm,90 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+L,66 Tahun,2 Hari,,28.33,130 mm,90 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,63 Tahun,1 Hari,,23.73,130 mm,90 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,66 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,53 Tahun,2 Hari,,20.76,120 mm,70 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+L,60 Tahun,3 Hari,,23.18,130 mm,90 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,73 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,56 Tahun,1 Hari,,22.43,124 mm,76 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,59 Tahun,2 Hari,,22.43,151 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,57 Tahun,1 Hari,,22.43,139 mm,85 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,50 Tahun,2 Hari,,22.43,143 mm,90 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,48 Tahun,1 Hari,,22.43,132 mm,91 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,60 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,66 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,69 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,61 Tahun,1 Hari,,22.43,142 mm,93 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,56 Tahun,1 Hari,,22.43,172 mm,100 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,67 Tahun,1 Hari,,22.43,140 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,53 Tahun,1 Hari,,22.43,140 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,70 Tahun,1 Hari,199,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,48 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,60 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,70 Tahun,7 Hari,,27.06,140 mm,90 Hg,20 /menit,80 /menit,KOMPLIKASI
+L,81 Tahun,2 Hari,,22.43,120 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,52 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,45 Tahun,1 Hari,,22.15,130 mm,80 Hg,18 /menit,88 /menit,TIDAK KOMPLIKASI
+L,67 Tahun,2 Hari,,22.43,110 mm,60 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,46 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,60 Tahun,1 Hari,,22.43,120 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,53 Tahun,2 Hari,,22.83,139 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,39 Tahun,2 Hari,,22.15,121 mm,85 Hg,19 /menit,80 /menit,TIDAK KOMPLIKASI
+L,68 Tahun,3 Hari,,21.48,90 mm,70 Hg,20 /menit,84 /menit,TIDAK KOMPLIKASI
+L,61 Tahun,2 Hari,,22.43,150 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,60 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,63 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,63 Tahun,2 Hari,,22.43,130 mm,80 Hg,19 /menit,80 /menit,KOMPLIKASI
+P,56 Tahun,2 Hari,,22.03,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,54 Tahun,21 Hari,185,19.98,120 mm,80 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+L,51 Tahun,2 Hari,,22.43,110 mm,60 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,58 Tahun,2 Hari,,23.63,130 mm,80 Hg,18 /menit,88 /menit,KOMPLIKASI
+L,66 Tahun,1 Hari,,22.43,120 mm,70 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,60 Tahun,2 Hari,,21.26,120 mm,80 Hg,20 /menit,84 /menit,TIDAK KOMPLIKASI
+L,68 Tahun,2 Hari,,21.26,120 mm,70 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,45 Tahun,1 Hari,,22.43,120 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,60 Tahun,1 Hari,,22.43,120 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,55 Tahun,1 Hari,,22.43,120 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,65 Tahun,2 Hari,,15.56,120 mm,70 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,54 Tahun,1 Hari,,25.33,120 mm,70 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,42 Tahun,1 Hari,,25.1,120 mm,70 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,64 Tahun,1 Hari,,20.44,110 mm,70 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,48 Tahun,1 Hari,,24.09,110 mm,70 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,64 Tahun,1 Hari,,18.37,110 mm,70 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+L,57 Tahun,1 Hari,,23.88,120 mm,80 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,56 Tahun,1 Hari,,27.59,100 mm,80 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,48 Tahun,1 Hari,,20.69,110 mm,60 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,50 Tahun,1 Hari,,22.19,120 mm,70 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,73 Tahun,1 Hari,,20.28,110 mm,60 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,59 Tahun,0 Hari,224,29.14,100 mm,60 Hg,22 /menit,80 /menit,TIDAK KOMPLIKASI
+P,61 Tahun,1 Hari,,30.67,110 mm,70 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+L,64 Tahun,0 Hari,71,23.44,120 mm,80 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+L,62 Tahun,1 Hari,,23.44,110 mm,70 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+L,32 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,64 Tahun,2 Hari,93,19.49,120 mm,70 Hg,20 /menit,80 /menit,KOMPLIKASI
+L,63 Tahun,3 Hari,,23.03,120 mm,70 Hg,20 /menit,80 /menit,KOMPLIKASI
+L,56 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,88 /menit,TIDAK KOMPLIKASI
+P,48 Tahun,1 Hari,,22.43,120 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,69 Tahun,2 Hari,,19.72,140 mm,90 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,54 Tahun,3 Hari,104,20.81,150 mm,100 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,67 Tahun,2 Hari,,24.97,140 mm,70 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,51 Tahun,2 Hari,122,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,38 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,56 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,46 Tahun,1 Hari,,22.43,120 mm,80 Hg,18 /menit,88 /menit,TIDAK KOMPLIKASI
+P,48 Tahun,2 Hari,,22.43,120 mm,80 Hg,18 /menit,88 /menit,TIDAK KOMPLIKASI
+P,61 Tahun,2 Hari,,29.14,110 mm,80 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,51 Tahun,2 Hari,226,22.43,130 mm,80 Hg,18 /menit,88 /menit,KOMPLIKASI
+L,69 Tahun,1 Hari,,22.43,148 mm,67 Hg,18 /menit,88 /menit,TIDAK KOMPLIKASI
+P,56 Tahun,2 Hari,,22.03,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,56 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,76 Tahun,2 Hari,,22.43,140 mm,70 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,56 Tahun,1 Hari,,22.43,160 mm,100 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,43 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,88 /menit,TIDAK KOMPLIKASI
+P,60 Tahun,1 Hari,369,22.43,131 mm,87 Hg,18 /menit,88 /menit,TIDAK KOMPLIKASI
+P,49 Tahun,1 Hari,,22.43,120 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,67 Tahun,2 Hari,,27.06,120 mm,70 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,42 Tahun,2 Hari,,22.43,130 mm,90 Hg,18 /menit,88 /menit,TIDAK KOMPLIKASI
+P,52 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,88 /menit,TIDAK KOMPLIKASI
+P,52 Tahun,2 Hari,,22.43,110 mm,60 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,81 Tahun,1 Hari,,22.15,110 mm,60 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,67 Tahun,2 Hari,,22.43,110 mm,60 Hg,18 /menit,88 /menit,TIDAK KOMPLIKASI
+L,64 Tahun,2 Hari,,22.43,120 mm,80 Hg,18 /menit,88 /menit,KOMPLIKASI
+P,74 Tahun,2 Hari,244,22.43,130 mm,80 Hg,18 /menit,88 /menit,KOMPLIKASI
+L,62 Tahun,1 Hari,,22.43,120 mm,80 Hg,18 /menit,88 /menit,KOMPLIKASI
+P,74 Tahun,2 Hari,244,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,62 Tahun,1 Hari,,22.43,120 mm,80 Hg,18 /menit,88 /menit,KOMPLIKASI
+P,60 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,88 /menit,TIDAK KOMPLIKASI
+P,44 Tahun,1 Hari,,22.43,164 mm,112 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,74 Tahun,1 Hari,,22.43,100 mm,70 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,63 Tahun,0 Hari,,22.04,120 mm,60 Hg,16 /menit,80 /menit,KOMPLIKASI
+P,62 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,68 Tahun,1 Hari,,22.43,150 mm,90 Hg,18 /menit,88 /menit,TIDAK KOMPLIKASI
+L,60 Tahun,2 Hari,,22.76,120 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,60 Tahun,0 Hari,,27.06,120 mm,70 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,64 Tahun,2 Hari,,21.77,120 mm,80 Hg,15 /menit,70 /menit,KOMPLIKASI
+L,66 Tahun,1 Hari,,22.43,110 mm,70 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,65 Tahun,0 Hari,,16.44,120 mm,80 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+L,92 Tahun,0 Hari,,19.98,120 mm,80 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,64 Tahun,0 Hari,,21.33,146 mm,80 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+L,60 Tahun,0 Hari,,20.72,120 mm,80 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,61 Tahun,0 Hari,,27.77,120 mm,80 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+L,68 Tahun,0 Hari,,29.41,110 mm,80 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,66 Tahun,0 Hari,,28.52,120 mm,80 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+L,63 Tahun,0 Hari,,22.48,110 mm,70 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,53 Tahun,3 Hari,,22.43,139 mm,90 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,64 Tahun,0 Hari,,29.3,110 mm,70 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,51 Tahun,0 Hari,,21.91,120 mm,80 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,54 Tahun,0 Hari,,25.78,120 mm,80 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,55 Tahun,0 Hari,,24.44,100 mm,60 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+L,60 Tahun,0 Hari,,23.44,120 mm,80 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,52 Tahun,1 Hari,,22.43,139 mm,89 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,56 Tahun,0 Hari,,23.44,120 mm,80 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+L,62 Tahun,0 Hari,,27.92,120 mm,80 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,48 Tahun,0 Hari,,22.48,120 mm,80 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,42 Tahun,1 Hari,,22.43,120 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,53 Tahun,1 Hari,,22.43,120 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,42 Tahun,0 Hari,,24.97,110 mm,70 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,48 Tahun,0 Hari,,22.94,100 mm,70 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+L,57 Tahun,0 Hari,,25.39,120 mm,80 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+L,51 Tahun,0 Hari,,25.91,110 mm,70 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,62 Tahun,0 Hari,,24.44,120 mm,80 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+L,65 Tahun,0 Hari,,28.65,110 mm,70 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,45 Tahun,0 Hari,,23.73,120 mm,80 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,56 Tahun,0 Hari,,28.89,110 mm,70 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,53 Tahun,2 Hari,,22.43,190 mm,100 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,67 Tahun,2 Hari,,27.06,130 mm,90 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,48 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,51 Tahun,0 Hari,,20.81,120 mm,80 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,64 Tahun,0 Hari,,20.81,120 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+L,65 Tahun,3 Hari,,21.26,120 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,51 Tahun,3 Hari,,20.81,120 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,53 Tahun,1 Hari,,22.43,140 mm,90 Hg,18 /menit,88 /menit,TIDAK KOMPLIKASI
+L,64 Tahun,1 Hari,,22.43,118 mm,76 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,45 Tahun,1 Hari,,22.43,130 mm,82 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,53 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,62 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,54 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,50 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,85 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,50 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,49 Tahun,1 Hari,,22.43,130 mm,80 Hg,19 /menit,80 /menit,TIDAK KOMPLIKASI
+P,50 Tahun,1 Hari,,22.15,156 mm,103 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,56 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,65 Tahun,2 Hari,,24.97,110 mm,70 Hg,20 /menit,84 /menit,TIDAK KOMPLIKASI
+P,53 Tahun,1 Hari,,22.43,120 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,50 Tahun,2 Hari,,22.43,142 mm,90 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,57 Tahun,1 Hari,,22.15,120 mm,70 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,46 Tahun,14 Hari,,22.43,150 mm,80 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+L,62 Tahun,3 Hari,,23.03,140 mm,90 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,53 Tahun,2 Hari,,22.43,150 mm,90 Hg,18 /menit,88 /menit,TIDAK KOMPLIKASI
+P,61 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,72 Tahun,2 Hari,,27.06,140 mm,90 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,53 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,88 /menit,KOMPLIKASI
+L,67 Tahun,2 Hari,,19.03,120 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,76 Tahun,1 Hari,,22.43,152 mm,92 Hg,18 /menit,88 /menit,TIDAK KOMPLIKASI
+P,75 Tahun,2 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,51 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,43 Tahun,2 Hari,,22.43,119 mm,76 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,68 Tahun,1 Hari,,22.43,180 mm,100 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,69 Tahun,2 Hari,,20.2,130 mm,90 Hg,20 /menit,88 /menit,KOMPLIKASI
+L,74 Tahun,2 Hari,,22.04,120 mm,70 Hg,20 /menit,88 /menit,KOMPLIKASI
+L,54 Tahun,1 Hari,,22.43,120 mm,80 Hg,19 /menit,80 /menit,KOMPLIKASI
+P,65 Tahun,2 Hari,,31.22,130 mm,90 Hg,20 /menit,84 /menit,KOMPLIKASI
+L,56 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,88 /menit,KOMPLIKASI
+P,54 Tahun,2 Hari,,27.94,130 mm,90 Hg,20 /menit,85 /menit,KOMPLIKASI
+P,71 Tahun,2 Hari,,20.81,120 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+L,53 Tahun,1 Hari,,22.43,120 mm,80 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+L,70 Tahun,2 Hari,,21.22,120 mm,70 Hg,20 /menit,88 /menit,KOMPLIKASI
+L,72 Tahun,2 Hari,,20.76,120 mm,80 Hg,20 /menit,84 /menit,KOMPLIKASI
+P,74 Tahun,2 Hari,,29.14,140 mm,90 Hg,20 /menit,84 /menit,KOMPLIKASI
+P,51 Tahun,1 Hari,,22.43,140 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+L,61 Tahun,2 Hari,,20.76,140 mm,90 Hg,20 /menit,84 /menit,KOMPLIKASI
+L,65 Tahun,2 Hari,,21.26,120 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,56 Tahun,2 Hari,,23.23,130 mm,80 Hg,18 /menit,88 /menit,TIDAK KOMPLIKASI
+L,57 Tahun,1 Hari,,22.43,130 mm,90 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+L,46 Tahun,1 Hari,,22.76,110 mm,70 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,60 Tahun,2 Hari,,24.97,130 mm,80 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+L,66 Tahun,2 Hari,,21.26,120 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,48 Tahun,1 Hari,,22.43,110 mm,60 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+L,60 Tahun,1 Hari,,22.03,133 mm,82 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,48 Tahun,1 Hari,,22.43,120 mm,70 Hg,19 /menit,88 /menit,KOMPLIKASI
+P,54 Tahun,2 Hari,,22.15,133 mm,75 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+L,45 Tahun,1 Hari,,22.43,120 mm,80 Hg,19 /menit,80 /menit,KOMPLIKASI
+P,76 Tahun,2 Hari,,22.89,120 mm,70 Hg,20 /menit,84 /menit,KOMPLIKASI
+P,36 Tahun,2 Hari,,22.43,120 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,51 Tahun,0 Hari,,23.88,120 mm,79 Hg,16 /menit,80 /menit,KOMPLIKASI
+L,61 Tahun,2 Hari,,21.26,140 mm,90 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,59 Tahun,2 Hari,,27.06,140 mm,90 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,63 Tahun,2 Hari,,22.43,153 mm,66 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,47 Tahun,1 Hari,,22.43,120 mm,90 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,58 Tahun,1 Hari,,27.24,161 mm,91 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,50 Tahun,1 Hari,,22.43,120 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,54 Tahun,1 Hari,,22.43,130 mm,80 Hg,20 /menit,80 /menit,KOMPLIKASI
+L,53 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,62 Tahun,3 Hari,,19.26,110 mm,80 Hg,20 /menit,84 /menit,KOMPLIKASI
+L,51 Tahun,1 Hari,,21.08,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,51 Tahun,1 Hari,,22.43,110 mm,70 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,51 Tahun,0 Hari,,23.31,130 mm,70 Hg,16 /menit,80 /menit,TIDAK KOMPLIKASI
+P,57 Tahun,1 Hari,,22.43,110 mm,88 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,61 Tahun,4 Hari,,19.53,141 mm,79 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,39 Tahun,1 Hari,,26.13,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,60 Tahun,1 Hari,,20,120 mm,70 Hg,19 /menit,84 /menit,KOMPLIKASI
+P,56 Tahun,1 Hari,,24.34,150 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,52 Tahun,1 Hari,,26.35,130 mm,80 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,55 Tahun,1 Hari,,23.81,150 mm,90 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,61 Tahun,2 Hari,,21.78,115 mm,79 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,53 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,76 /menit,TIDAK KOMPLIKASI
+P,62 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,51 Tahun,1 Hari,,22.43,140 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,65 Tahun,1 Hari,,22.43,143 mm,92 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,45 Tahun,1 Hari,,22.15,142 mm,85 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,57 Tahun,1 Hari,,22.43,156 mm,93 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,43 Tahun,1 Hari,,20.03,110 mm,60 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,54 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,46 Tahun,1 Hari,,22.43,122 mm,74 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+P,70 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+L,61 Tahun,1 Hari,,22.77,110 mm,60 Hg,20 /menit,80 /menit,KOMPLIKASI
+P,46 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,54 Tahun,1 Hari,,22.43,202 mm,104 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,76 Tahun,1 Hari,,22.43,155 mm,70 Hg,18 /menit,80 /menit,TIDAK KOMPLIKASI
+L,53 Tahun,1 Hari,,22.04,172 mm,92 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+P,50 Tahun,1 Hari,,22.43,172 mm,96 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,50 Tahun,1 Hari,,22.43,148 mm,90 Hg,19 /menit,80 /menit,TIDAK KOMPLIKASI
+P,56 Tahun,1 Hari,,22.19,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,59 Tahun,13 Hari,,24.97,139 mm,75 Hg,15 /menit,80 /menit,KOMPLIKASI
+P,66 Tahun,2 Hari,,22.89,140 mm,90 Hg,20 /menit,84 /menit,KOMPLIKASI
+P,57 Tahun,1 Hari,,22.43,130 mm,89 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,54 Tahun,1 Hari,,22.43,150 mm,70 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+P,63 Tahun,1 Hari,,22.43,130 mm,80 Hg,18 /menit,80 /menit,KOMPLIKASI
+P,54 Tahun,2 Hari,,22.43,118 mm,84 Hg,20 /menit,88 /menit,KOMPLIKASI
+L,57 Tahun,1 Hari,,22.43,130 mm,80 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+L,58 Tahun,1 Hari,,22.43,130 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,51 Tahun,1 Hari,,22.43,130 mm,80 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+P,70 Tahun,3 Hari,,22.89,120 mm,70 Hg,20 /menit,84 /menit,KOMPLIKASI
+L,64 Tahun,1 Hari,,22.43,130 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,56 Tahun,1 Hari,,22.43,130 mm,80 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+L,65 Tahun,2 Hari,,22.49,120 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,42 Tahun,1 Hari,,22.43,127 mm,78 Hg,19 /menit,80 /menit,TIDAK KOMPLIKASI
+P,49 Tahun,7 Hari,,22.43,157 mm,100 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+P,74 Tahun,1 Hari,,21.93,167 mm,90 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+L,61 Tahun,2 Hari,,25.54,130 mm,80 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+P,61 Tahun,2 Hari,,20.61,110 mm,60 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+L,56 Tahun,2 Hari,,22.43,110 mm,60 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,61 Tahun,1 Hari,,22.43,120 mm,80 Hg,20 /menit,76 /menit,TIDAK KOMPLIKASI
+P,54 Tahun,2 Hari,,24.56,140 mm,90 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+L,60 Tahun,2 Hari,,22.43,110 mm,60 Hg,20 /menit,88 /menit,KOMPLIKASI
+L,64 Tahun,2 Hari,,22.43,150 mm,78 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+P,63 Tahun,1 Hari,,22.43,130 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+L,64 Tahun,1 Hari,,22.43,120 mm,80 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+P,64 Tahun,1 Hari,,22.43,80 mm,60 Hg,20 /menit,80 /menit,TIDAK KOMPLIKASI
+P,54 Tahun,2 Hari,,22.43,120 mm,80 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+P,76 Tahun,2 Hari,,22.43,157 mm,82 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+P,46 Tahun,2 Hari,,23.23,127 mm,81 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+L,64 Tahun,1 Hari,,22.43,134 mm,88 Hg,19 /menit,88 /menit,TIDAK KOMPLIKASI
+L,81 Tahun,1 Hari,,22.43,120 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,58 Tahun,2 Hari,,22.43,110 mm,60 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+P,67 Tahun,1 Hari,,22.43,130 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,53 Tahun,1 Hari,,22.43,127 mm,78 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+P,70 Tahun,2 Hari,,22.43,127 mm,83 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+P,53 Tahun,3 Hari,,24.97,128 mm,90 Hg,16 /menit,80 /menit,TIDAK KOMPLIKASI
+L,63 Tahun,1 Hari,,22.43,130 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+L,62 Tahun,1 Hari,,22.43,110 mm,60 Hg,20 /menit,88 /menit,KOMPLIKASI
+L,55 Tahun,1 Hari,,22.43,110 mm,60 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,62 Tahun,1 Hari,,22.43,140 mm,100 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+L,66 Tahun,1 Hari,,26.71,120 mm,80 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+P,53 Tahun,1 Hari,,22.43,157 mm,84 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+P,61 Tahun,1 Hari,,22.43,120 mm,80 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+P,45 Tahun,2 Hari,,22.43,140 mm,80 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+P,74 Tahun,3 Hari,,27.06,130 mm,70 Hg,20 /menit,84 /menit,KOMPLIKASI
+L,64 Tahun,2 Hari,,24.97,120 mm,80 Hg,17 /menit,77 /menit,KOMPLIKASI
+P,56 Tahun,1 Hari,,22.43,130 mm,80 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+P,53 Tahun,2 Hari,,22.43,131 mm,78 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+L,49 Tahun,1 Hari,,23.23,130 mm,80 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,56 Tahun,1 Hari,,22.43,170 mm,100 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+P,50 Tahun,2 Hari,,22.43,152 mm,90 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+P,64 Tahun,2 Hari,,22.43,110 mm,60 Hg,20 /menit,88 /menit,KOMPLIKASI
+P,50 Tahun,2 Hari,,22.43,130 mm,80 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+L,59 Tahun,1 Hari,,22.43,136 mm,84 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+P,51 Tahun,2 Hari,,22.43,120 mm,80 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
+P,55 Tahun,1 Hari,,22.43,130 mm,80 Hg,20 /menit,88 /menit,TIDAK KOMPLIKASI
